@@ -1,13 +1,16 @@
--------------------------------------------------
--- Lua Password Generator                      --
--- Version 1                                   --
---                                             --
--- (C) 2020 IARD                               --
--- Licensed under the GNU GPLv3                --
---                                             --
--- Using the GUI libraries from                --
--- https://github.com/adriweb/EEPro-for-Nspire --
--------------------------------------------------
+---------------------------------------------------------
+-- Lua Password Generator                              --
+-- Version 1                                           --
+--                                                     --
+-- (C) 2020 IARD                                       --
+-- Licensed under the GNU GPLv3                        --
+--                                                     --
+-- Using the GUI libraries from                        --
+-- https://github.com/adriweb/EEPro-for-Nspire         --
+--                                                     --
+-- Password generator based on                         --
+-- https://rosettacode.org/wiki/Password_generator#Lua --
+---------------------------------------------------------
 
 platform.apilevel = '2.0'  
 
